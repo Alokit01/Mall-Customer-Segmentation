@@ -60,7 +60,7 @@ Feature scaling was performed using **StandardScaler** before multivariate clust
 
 The bivariate K-Means clustering below shows customer segments based on **Annual Income** and **Spending Score**.
 
-![Bivariate Customer Segmentation](clustering_bivariate.png)
+![Bivariate Customer Segmentation](./clustering_bivariate.png)
 
 ## 📊 Key Insights
 
