@@ -56,6 +56,11 @@ K-Means clustering was applied at three levels:
 The **Elbow Method** was used with K-Means inertia scores to identify an appropriate number of clusters.
 
 Feature scaling was performed using **StandardScaler** before multivariate clustering.
+## 📊 Customer Segmentation Visualization
+
+The bivariate K-Means clustering below shows customer segments based on **Annual Income** and **Spending Score**.
+
+![Bivariate Customer Segmentation](clustering_bivariate.png)
 
 ## 📊 Key Insights
 
