@@ -61,7 +61,7 @@ Feature scaling was performed using **StandardScaler** before multivariate clust
 The bivariate K-Means clustering below shows customer segments based on **Annual Income** and **Spending Score**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alokit01/Mall-Customer-Segmentation/main/clustering_bivariate.png" 
+  <img src="https://raw.githubusercontent.com/Alokit01/Mall-Customer-Segmentation/main/clustering_bivaraiate.png" 
        alt="Bivariate Customer Segmentation" 
        width="700">
 </p>
